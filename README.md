@@ -2,4 +2,6 @@
  
  ### Conceitos aplicados neste repositório:
  
- #### CSS Grid
+ ### CSS Grid
+
+![print sucesso grid](./img/print_success.png)
